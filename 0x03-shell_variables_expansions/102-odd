@@ -1,0 +1,2 @@
+#!/bin/bash
+pastr-- | cut-f1
