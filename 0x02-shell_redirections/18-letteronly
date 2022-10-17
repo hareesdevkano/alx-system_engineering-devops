@@ -1,2 +1,7 @@
+<<<<<<< HEAD
  #!/bin/bash
 grep "[A-Z, a-z]" /etc/ssh/sshd_config
+=======
+#!/bin/bash
+grep "^[A-Z,a-z]" /etc/ssh/_contig
+>>>>>>> 78b87190ad21ae41775b60ae978f55c988bf7ea6
